@@ -174,3 +174,7 @@ Cộng đồng chạy Node & Validator VietNam, nơi thảo luận và chia sẻ
 
     Chanel: https://t.me/RunnodeVietNamese
     Youtube: https://www.youtube.com/@nodevalidatorvietnam
+Update Go version:
+https://tecadmin.net/how-to-install-go-on-ubuntu-20-04/#google_vignette
+
+State Sync: ping.pub
